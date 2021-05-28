@@ -12,7 +12,7 @@ Only Pull Requests addressed to ISA MPSTME shall be considered as valid submissi
 If you do not have the requisite knowledge of GitHub to do this, please take some time out to learn it from YouTube or other internet resources. 
 
 
-## Deadline information
+## Deadline Information
 
 The time given to solve these questions is 5 hours. Submissions made after 12:20am IST, DD/MM/YYYY shall not be considered.
 
