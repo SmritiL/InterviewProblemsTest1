@@ -6,7 +6,7 @@
 Do make sure you are filling the Google Form for the interview process before attempting the questions in this repository. Fork this repository to your account and solve them in a language of your preference, as mentioned in the Form.
 
 
-Pull Requests or links to OnlineGDB/AWS Cloud9/Google Colaboratory enviornments addressed to ISA MPSTME shall be considered as valid submissions for this Interview Process, although PRs shall be preferred.
+Pull Requests or links to OnlineGDB/AWS Cloud9/Google Colaboratory environments addressed to ISA MPSTME shall be considered as valid submissions for this Interview Process, although PRs shall be preferred.
 
 
 If you do not have the requisite knowledge of GitHub to do this, please take some time out to learn it from YouTube or other internet resources. 
