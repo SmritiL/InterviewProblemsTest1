@@ -14,6 +14,6 @@ If you do not have the requisite knowledge of GitHub to do this, please take som
 
 ## Deadline Information
 
-The time given to solve these questions is 5 hours. Submissions made after 7:10 pm IST, 04/06/2021 shall not be considered.
+The time given to solve these questions is 19 hours. Submissions made after 3:10 pm IST, 08/09/2021 shall not be considered.
 
 ### Good luck! Hope to see you in the next Phase!
