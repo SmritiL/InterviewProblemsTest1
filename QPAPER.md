@@ -6,7 +6,7 @@
 
 ## Instructions
 
-Welcome! This test shall begin at **8PM IST, September 9th, 2021 (Thursday).**  
+Welcome! This test shall begin at **8PM IST, September 8th, 2021 (Wednesday).**  
 Duration: 19 hrs  
 Final submission: **3PM IST, September 9th, 2021 (Thursday)**
 
@@ -31,8 +31,8 @@ ii.) Input:- `'hello123321hello'`
 ____
 
 **2. Given n non-negative integers a1, a2, ..., an , where each represents a point at coordinate (i, ai).  
-n vertical lines are drawn such that the two endpoints of the line i is at (i, ai) and (i, 0). Find two lines, which, together with the x-axis forms a container, such that the container contains the most water.
-Notice that you may not slant the container.**
+'n' vertical lines are drawn such that the two endpoints of the line i is at (i, ai) and (i, 0). Find two lines which, together with the x-axis, forms a container such that the container contains the most water.
+Note that you may not slant the container.**
 
 ### Constraints:
 `n == height.length`   
@@ -56,10 +56,10 @@ ____
 * You must **design a function that takes a string and the key you found out as input, and use the table to decipher it accordingly.**
 
 ### Constraints:
-0 < s1.length < 2 x 10^(7)
-0 < s2.length < 2 x 10^(7)
+`0 < s1.length < 2 x 10^(7)`  
+`0 < s2.length < 2 x 10^(7)`
 
-### Due to the sensitivity of this question, no examples have been provided for the same.
+#### Due to the sensitivity of this question, no examples have been provided for it.
 
 > Note: To simplify your work a little bit for this question, we are hereby providing code snippets which shall generate a Vigenère table for you in your code that you can reference and use. If possible, refrain from using it, but do understand that this will not negatively affect your solution. 
 > This is available only for the Python, C++ and Java languages.
@@ -114,7 +114,7 @@ public class vigenereTableGeneratorJava
     }
 }
 ```
-### C++14
+#### C++14
 ```cpp
 #include<iostream>
 int main(){
@@ -143,3 +143,8 @@ int main(){
 ```
 ### Example Vigenère table:  
 ![image](https://user-images.githubusercontent.com/70141886/132496008-3e82c02c-109d-4998-8e5e-4c367814970e.png)
+
+
+**END of questions**
+
+### Good luck!
